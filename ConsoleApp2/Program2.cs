@@ -1,4 +1,4 @@
-﻿Console.WriteLine("color:");
+Console.WriteLine("color:");
 string color = Console.ReadLine();
 Console.WriteLine("year:");
 int year = int.Parse(Console.ReadLine());
